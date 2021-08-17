@@ -1,0 +1,330 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Syncfusion.Compression.Base/18.4.0.48": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.Compression.Base.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Compression.Base.dll": {}
+        }
+      },
+      "Syncfusion.DocIO.WinForms/18.4.0.48": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.Licensing": "18.4.0.48",
+          "Syncfusion.OfficeChart.Base": "18.4.0.48"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.DocIO.Base.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.DocIO.Base.dll": {}
+        }
+      },
+      "Syncfusion.DocToPDFConverter.WinForms/18.4.0.48": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.DocIO.WinForms": "18.4.0.48",
+          "Syncfusion.Pdf.WinForms": "18.4.0.48"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.DocToPdfConverter.Base.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.DocToPdfConverter.Base.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/18.4.0.48": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.OfficeChart.Base/18.4.0.48": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.OfficeChart.Base.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.OfficeChart.Base.dll": {}
+        }
+      },
+      "Syncfusion.Pdf.WinForms/18.4.0.48": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.Licensing": "18.4.0.48"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.Pdf.Base.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Pdf.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Compression.Base/18.4.0.48": {
+      "sha512": "Jy1L/HgLVBq+REW2u5QJScikn04HMH2I+3Yh57StWmjBE0o3yPl7boRw7u9qq+JZagJwawB9Gs/rjVDbwZluag==",
+      "type": "package",
+      "path": "syncfusion.compression.base/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Syncfusion.Compression.Base.dll",
+        "lib/net20/Syncfusion.Compression.Base.xml",
+        "lib/net35/Syncfusion.Compression.Base.dll",
+        "lib/net35/Syncfusion.Compression.Base.xml",
+        "lib/net40/Syncfusion.Compression.Base.dll",
+        "lib/net40/Syncfusion.Compression.Base.xml",
+        "lib/net45/Syncfusion.Compression.Base.dll",
+        "lib/net45/Syncfusion.Compression.Base.xml",
+        "lib/net451/Syncfusion.Compression.Base.dll",
+        "lib/net451/Syncfusion.Compression.Base.xml",
+        "lib/net46/Syncfusion.Compression.Base.dll",
+        "lib/net46/Syncfusion.Compression.Base.xml",
+        "lib/netcoreapp3.1/Syncfusion.Compression.Base.dll",
+        "lib/netcoreapp3.1/Syncfusion.Compression.Base.xml",
+        "lib/netcoreapp5.0/Syncfusion.Compression.Base.dll",
+        "lib/netcoreapp5.0/Syncfusion.Compression.Base.xml",
+        "syncfusion.compression.base.18.4.0.48.nupkg.sha512",
+        "syncfusion.compression.base.nuspec"
+      ]
+    },
+    "Syncfusion.DocIO.WinForms/18.4.0.48": {
+      "sha512": "NEOWWp9RA5KKFXwYwHeHugGK+16e+t6DOqY/RyvNMO/JjogIgwSVEO8j4jFsaoaksADknCZp7gM2YW1z+Ala2g==",
+      "type": "package",
+      "path": "syncfusion.docio.winforms/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Syncfusion.DocIO.Base.dll",
+        "lib/net20/Syncfusion.DocIO.Base.xml",
+        "lib/net35/Syncfusion.DocIO.Base.dll",
+        "lib/net35/Syncfusion.DocIO.Base.xml",
+        "lib/net40/Syncfusion.DocIO.Base.dll",
+        "lib/net40/Syncfusion.DocIO.Base.xml",
+        "lib/net45/Syncfusion.DocIO.Base.dll",
+        "lib/net45/Syncfusion.DocIO.Base.xml",
+        "lib/net451/Syncfusion.DocIO.Base.dll",
+        "lib/net451/Syncfusion.DocIO.Base.xml",
+        "lib/net46/Syncfusion.DocIO.Base.dll",
+        "lib/net46/Syncfusion.DocIO.Base.xml",
+        "lib/netcoreapp3.1/Syncfusion.DocIO.Base.dll",
+        "lib/netcoreapp3.1/Syncfusion.DocIO.Base.xml",
+        "lib/netcoreapp5.0/Syncfusion.DocIO.Base.dll",
+        "lib/netcoreapp5.0/Syncfusion.DocIO.Base.xml",
+        "syncfusion.docio.winforms.18.4.0.48.nupkg.sha512",
+        "syncfusion.docio.winforms.nuspec"
+      ]
+    },
+    "Syncfusion.DocToPDFConverter.WinForms/18.4.0.48": {
+      "sha512": "qt7h/lZzxUXJP5yvh3/3ZRz6meR98ERvLrD1zdoLq/KRQ5JXHEAK0qLoflcLy5VRMxKHxdYWZXLZFvIgCBMQtw==",
+      "type": "package",
+      "path": "syncfusion.doctopdfconverter.winforms/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net20/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/net35/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net35/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/net40/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net40/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/net45/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net45/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/net451/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net451/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/net46/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/net46/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/netcoreapp3.1/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/netcoreapp3.1/Syncfusion.DocToPdfConverter.Base.xml",
+        "lib/netcoreapp5.0/Syncfusion.DocToPdfConverter.Base.dll",
+        "lib/netcoreapp5.0/Syncfusion.DocToPdfConverter.Base.xml",
+        "syncfusion.doctopdfconverter.winforms.18.4.0.48.nupkg.sha512",
+        "syncfusion.doctopdfconverter.winforms.nuspec"
+      ]
+    },
+    "Syncfusion.Licensing/18.4.0.48": {
+      "sha512": "oXAdH7utKg/e8/oOeymi88yeXyFf7PzY9ONir+hWgjAUWwKFRaco8SQXI/hCfyCq1fDPHyHQUSJE8S2oVBfutQ==",
+      "type": "package",
+      "path": "syncfusion.licensing/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10.0/Syncfusion.Licensing.dll",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net20/Syncfusion.Licensing.dll",
+        "lib/net35/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/netcoreapp3.1/Syncfusion.Licensing.dll",
+        "lib/netcoreapp5.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.2/Syncfusion.Licensing.dll",
+        "lib/netstandard1.4/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.18.4.0.48.nupkg.sha512",
+        "syncfusion.licensing.nuspec"
+      ]
+    },
+    "Syncfusion.OfficeChart.Base/18.4.0.48": {
+      "sha512": "1D7DYT+cBTC9UvCnztFppZbN8jg2sYDO3+BbHL45doJ6eCqLZRh2cllHKNBYCQsqauPLsAzdcQkCz9Tlg3lurQ==",
+      "type": "package",
+      "path": "syncfusion.officechart.base/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Syncfusion.OfficeChart.Base.dll",
+        "lib/net20/Syncfusion.OfficeChart.Base.xml",
+        "lib/net35/Syncfusion.OfficeChart.Base.dll",
+        "lib/net35/Syncfusion.OfficeChart.Base.xml",
+        "lib/net40/Syncfusion.OfficeChart.Base.dll",
+        "lib/net40/Syncfusion.OfficeChart.Base.xml",
+        "lib/net45/Syncfusion.OfficeChart.Base.dll",
+        "lib/net45/Syncfusion.OfficeChart.Base.xml",
+        "lib/net451/Syncfusion.OfficeChart.Base.dll",
+        "lib/net451/Syncfusion.OfficeChart.Base.xml",
+        "lib/net46/Syncfusion.OfficeChart.Base.dll",
+        "lib/net46/Syncfusion.OfficeChart.Base.xml",
+        "lib/netcoreapp3.1/Syncfusion.OfficeChart.Base.dll",
+        "lib/netcoreapp3.1/Syncfusion.OfficeChart.Base.xml",
+        "lib/netcoreapp5.0/Syncfusion.OfficeChart.Base.dll",
+        "lib/netcoreapp5.0/Syncfusion.OfficeChart.Base.xml",
+        "syncfusion.officechart.base.18.4.0.48.nupkg.sha512",
+        "syncfusion.officechart.base.nuspec"
+      ]
+    },
+    "Syncfusion.Pdf.WinForms/18.4.0.48": {
+      "sha512": "Hxd+1owza0rfNjuf8E5vdP1PPAGHoq8fU12mZ379BIBG0+i5n5QrZr0w1h1UmEDsZiX5SJX7WhvlrDW48HM5bg==",
+      "type": "package",
+      "path": "syncfusion.pdf.winforms/18.4.0.48",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Syncfusion.Pdf.Base.dll",
+        "lib/net20/Syncfusion.Pdf.Base.xml",
+        "lib/net35/Syncfusion.Pdf.Base.dll",
+        "lib/net35/Syncfusion.Pdf.Base.xml",
+        "lib/net40/Syncfusion.Pdf.Base.dll",
+        "lib/net40/Syncfusion.Pdf.Base.xml",
+        "lib/net45/Syncfusion.Pdf.Base.dll",
+        "lib/net45/Syncfusion.Pdf.Base.xml",
+        "lib/net451/Syncfusion.Pdf.Base.dll",
+        "lib/net451/Syncfusion.Pdf.Base.xml",
+        "lib/net46/Syncfusion.Pdf.Base.dll",
+        "lib/net46/Syncfusion.Pdf.Base.xml",
+        "lib/netcoreapp3.1/Syncfusion.Pdf.Base.dll",
+        "lib/netcoreapp3.1/Syncfusion.Pdf.Base.xml",
+        "lib/netcoreapp5.0/Syncfusion.Pdf.Base.dll",
+        "lib/netcoreapp5.0/Syncfusion.Pdf.Base.xml",
+        "syncfusion.pdf.winforms.18.4.0.48.nupkg.sha512",
+        "syncfusion.pdf.winforms.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Syncfusion.DocIO.WinForms >= 18.4.0.48",
+      "Syncfusion.DocToPDFConverter.WinForms >= 18.4.0.48",
+      "Syncfusion.Pdf.WinForms >= 18.4.0.48"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\AimsProduct\\NonEditPdf\\noneditable\\SecurePdf\\SecurePdf.csproj",
+      "projectName": "SecurePdf",
+      "projectPath": "G:\\AimsProduct\\NonEditPdf\\noneditable\\SecurePdf\\SecurePdf.csproj",
+      "packagesPath": "C:\\Users\\AhsanFarooq\\.nuget\\packages\\",
+      "outputPath": "G:\\AimsProduct\\NonEditPdf\\noneditable\\SecurePdf\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\AhsanFarooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Syncfusion.DocIO.WinForms": {
+            "target": "Package",
+            "version": "[18.4.0.48, )"
+          },
+          "Syncfusion.DocToPDFConverter.WinForms": {
+            "target": "Package",
+            "version": "[18.4.0.48, )"
+          },
+          "Syncfusion.Pdf.WinForms": {
+            "target": "Package",
+            "version": "[18.4.0.48, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

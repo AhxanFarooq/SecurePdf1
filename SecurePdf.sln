@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurePdf", "SecurePdf\SecurePdf.csproj", "{BEE3DFD1-C125-4363-89F3-856BD32F6691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE3DFD1-C125-4363-89F3-856BD32F6691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE3DFD1-C125-4363-89F3-856BD32F6691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE3DFD1-C125-4363-89F3-856BD32F6691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE3DFD1-C125-4363-89F3-856BD32F6691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CA39F3-E5CE-41B9-A63B-BBBC578F73E5}
+	EndGlobalSection
+EndGlobal

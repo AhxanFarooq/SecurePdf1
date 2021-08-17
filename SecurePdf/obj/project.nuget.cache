@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xw2g/ZNJjjIZInCCqayPpJaWy5hurVXEluWrMbXdFhJBY7wy0kQmovf13VaaSpHN5PhHRpjC4R31V2NnwTXlA==",
+  "success": true,
+  "projectFilePath": "G:\\AimsProduct\\NonEditPdf\\noneditable\\SecurePdf\\SecurePdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.compression.base\\18.4.0.48\\syncfusion.compression.base.18.4.0.48.nupkg.sha512",
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.docio.winforms\\18.4.0.48\\syncfusion.docio.winforms.18.4.0.48.nupkg.sha512",
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.doctopdfconverter.winforms\\18.4.0.48\\syncfusion.doctopdfconverter.winforms.18.4.0.48.nupkg.sha512",
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.licensing\\18.4.0.48\\syncfusion.licensing.18.4.0.48.nupkg.sha512",
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.officechart.base\\18.4.0.48\\syncfusion.officechart.base.18.4.0.48.nupkg.sha512",
+    "C:\\Users\\AhsanFarooq\\.nuget\\packages\\syncfusion.pdf.winforms\\18.4.0.48\\syncfusion.pdf.winforms.18.4.0.48.nupkg.sha512"
+  ],
+  "logs": []
+}

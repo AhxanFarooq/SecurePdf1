@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SecurePdf/1.0.0": {
+        "dependencies": {
+          "Syncfusion.DocIO.WinForms": "18.4.0.48",
+          "Syncfusion.DocToPDFConverter.WinForms": "18.4.0.48",
+          "Syncfusion.Pdf.WinForms": "18.4.0.48"
+        },
+        "runtime": {
+          "SecurePdf.dll": {}
+        }
+      },
+      "Syncfusion.Compression.Base/18.4.0.48": {
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "18.4310.0.48",
+            "fileVersion": "18.4310.0.48"
+          }
+        }
+      },
+      "Syncfusion.DocIO.WinForms/18.4.0.48": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.Licensing": "18.4.0.48",
+          "Syncfusion.OfficeChart.Base": "18.4.0.48"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.DocIO.Base.dll": {
+            "assemblyVersion": "18.4310.0.48",
+            "fileVersion": "18.4310.0.48"
+          }
+        }
+      },
+      "Syncfusion.DocToPDFConverter.WinForms/18.4.0.48": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.DocIO.WinForms": "18.4.0.48",
+          "Syncfusion.Pdf.WinForms": "18.4.0.48"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.DocToPdfConverter.Base.dll": {
+            "assemblyVersion": "18.4310.0.48",
+            "fileVersion": "18.4310.0.48"
+          }
+        }
+      },
+      "Syncfusion.Licensing/18.4.0.48": {
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.4.0.48",
+            "fileVersion": "18.4.0.48"
+          }
+        }
+      },
+      "Syncfusion.OfficeChart.Base/18.4.0.48": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.OfficeChart.Base.dll": {
+            "assemblyVersion": "18.4310.0.48",
+            "fileVersion": "18.4310.0.48"
+          }
+        }
+      },
+      "Syncfusion.Pdf.WinForms/18.4.0.48": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "18.4.0.48",
+          "Syncfusion.Licensing": "18.4.0.48"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Pdf.Base.dll": {
+            "assemblyVersion": "18.4310.0.48",
+            "fileVersion": "18.4310.0.48"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SecurePdf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Compression.Base/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Jy1L/HgLVBq+REW2u5QJScikn04HMH2I+3Yh57StWmjBE0o3yPl7boRw7u9qq+JZagJwawB9Gs/rjVDbwZluag==",
+      "path": "syncfusion.compression.base/18.4.0.48",
+      "hashPath": "syncfusion.compression.base.18.4.0.48.nupkg.sha512"
+    },
+    "Syncfusion.DocIO.WinForms/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NEOWWp9RA5KKFXwYwHeHugGK+16e+t6DOqY/RyvNMO/JjogIgwSVEO8j4jFsaoaksADknCZp7gM2YW1z+Ala2g==",
+      "path": "syncfusion.docio.winforms/18.4.0.48",
+      "hashPath": "syncfusion.docio.winforms.18.4.0.48.nupkg.sha512"
+    },
+    "Syncfusion.DocToPDFConverter.WinForms/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qt7h/lZzxUXJP5yvh3/3ZRz6meR98ERvLrD1zdoLq/KRQ5JXHEAK0qLoflcLy5VRMxKHxdYWZXLZFvIgCBMQtw==",
+      "path": "syncfusion.doctopdfconverter.winforms/18.4.0.48",
+      "hashPath": "syncfusion.doctopdfconverter.winforms.18.4.0.48.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oXAdH7utKg/e8/oOeymi88yeXyFf7PzY9ONir+hWgjAUWwKFRaco8SQXI/hCfyCq1fDPHyHQUSJE8S2oVBfutQ==",
+      "path": "syncfusion.licensing/18.4.0.48",
+      "hashPath": "syncfusion.licensing.18.4.0.48.nupkg.sha512"
+    },
+    "Syncfusion.OfficeChart.Base/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1D7DYT+cBTC9UvCnztFppZbN8jg2sYDO3+BbHL45doJ6eCqLZRh2cllHKNBYCQsqauPLsAzdcQkCz9Tlg3lurQ==",
+      "path": "syncfusion.officechart.base/18.4.0.48",
+      "hashPath": "syncfusion.officechart.base.18.4.0.48.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.WinForms/18.4.0.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hxd+1owza0rfNjuf8E5vdP1PPAGHoq8fU12mZ379BIBG0+i5n5QrZr0w1h1UmEDsZiX5SJX7WhvlrDW48HM5bg==",
+      "path": "syncfusion.pdf.winforms/18.4.0.48",
+      "hashPath": "syncfusion.pdf.winforms.18.4.0.48.nupkg.sha512"
+    }
+  }
+}

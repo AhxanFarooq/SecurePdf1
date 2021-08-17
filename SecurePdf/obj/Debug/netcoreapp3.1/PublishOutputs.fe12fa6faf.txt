@@ -1,0 +1,15 @@
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SecurePdf.exe
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SecurePdf.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SecurePdf.deps.json
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SecurePdf.runtimeconfig.json
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SecurePdf.pdb
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\Aspose.Words.Pdf2Word.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\Aspose.Words.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SautinSoft.Document.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SautinSoft.PdfVision.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\SkiaSharp.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\System.Xml.XPath.XmlDocument.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\runtimes\osx\native\libSkiaSharp.dylib
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Projects\SecurePdf\SecurePdf\bin\Debug\netcoreapp3.1\publish\runtimes\win-x86\native\libSkiaSharp.dll
